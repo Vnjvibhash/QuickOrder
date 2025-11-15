@@ -20,6 +20,7 @@ It uses a scalable folder structure, reusable UI components, optimized lists, an
 ---
 
 ## 📁 Folder Structure
+```sh
 QuickOrder/
 │── src/
 │ ├── assets/
@@ -47,7 +48,7 @@ QuickOrder/
 │ └── timeAgo.ts
 │
 └── README.md
-
+```
 
 ---
 
