@@ -1,0 +1,458 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "His mother had always taught him",
+      "body": "His mother had always told him to never consider himself better than others, and for years he followed that rule. But today, the ignorance in front of him tested his patience.",
+      "tags": [
+        "history",
+        "american",
+        "crime"
+      ],
+      "reactions": {
+        "likes": 192,
+        "dislikes": 25
+      },
+      "views": 305,
+      "userId": 121
+    },
+    {
+      "id": 2,
+      "title": "The sky turned purple at noon",
+      "body": "Everyone looked up in confusion as the sky shifted into an unnatural shade of purple. Scientists rushed to explain, but people knew something else was coming.",
+      "tags": [
+        "mystery",
+        "science"
+      ],
+      "reactions": {
+        "likes": 88,
+        "dislikes": 5
+      },
+      "views": 141,
+      "userId": 236
+    },
+    {
+      "id": 3,
+      "title": "A map that led nowhere",
+      "body": "He followed the map for days only to realize all it did was lead him in a circle. But he wasn't ready to accept defeat — something on that map meant something.",
+      "tags": [
+        "adventure",
+        "travel"
+      ],
+      "reactions": {
+        "likes": 102,
+        "dislikes": 11
+      },
+      "views": 219,
+      "userId": 67
+    },
+    {
+      "id": 4,
+      "title": "The letter she never sent",
+      "body": "She wrote the letter a hundred times but never mailed it. Each draft held a different version of the truth she was too afraid to share.",
+      "tags": [
+        "romance",
+        "drama"
+      ],
+      "reactions": {
+        "likes": 341,
+        "dislikes": 18
+      },
+      "views": 921,
+      "userId": 43
+    },
+    {
+      "id": 5,
+      "title": "Coffee shop stranger",
+      "body": "Every morning he saw the same stranger in the coffee shop window. Until one day, she disappeared — replaced by someone else holding her cup.",
+      "tags": [
+        "mystery",
+        "life"
+      ],
+      "reactions": {
+        "likes": 189,
+        "dislikes": 9
+      },
+      "views": 432,
+      "userId": 88
+    },
+    {
+      "id": 6,
+      "title": "The abandoned playground",
+      "body": "The swings still moved though no children had played here for years. Locals whispered stories, but no one dared investigate further.",
+      "tags": [
+        "horror",
+        "urban"
+      ],
+      "reactions": {
+        "likes": 255,
+        "dislikes": 22
+      },
+      "views": 598,
+      "userId": 91
+    },
+    {
+      "id": 7,
+      "title": "A promise carved in wood",
+      "body": "They carved their names into the old oak tree, swearing they'd return as adults. Only one of them kept the promise.",
+      "tags": [
+        "friendship",
+        "nostalgia"
+      ],
+      "reactions": {
+        "likes": 140,
+        "dislikes": 6
+      },
+      "views": 289,
+      "userId": 54
+    },
+    {
+      "id": 8,
+      "title": "The man who remembered everything",
+      "body": "His curse wasn’t that he forgot — it was that he remembered every detail, every mistake, every heartbreak.",
+      "tags": [
+        "psychology",
+        "drama"
+      ],
+      "reactions": {
+        "likes": 403,
+        "dislikes": 14
+      },
+      "views": 1204,
+      "userId": 201
+    },
+    {
+      "id": 9,
+      "title": "A room with no corners",
+      "body": "The architecture defied logic. The room stretched infinitely, yet somehow felt too small for comfort.",
+      "tags": [
+        "sci-fi",
+        "mind-bending"
+      ],
+      "reactions": {
+        "likes": 320,
+        "dislikes": 21
+      },
+      "views": 876,
+      "userId": 99
+    },
+    {
+      "id": 10,
+      "title": "The last train home",
+      "body": "He barely made it through the doors before they slid shut. He didn’t realize this was the last train the city would ever run.",
+      "tags": [
+        "thriller",
+        "urban"
+      ],
+      "reactions": {
+        "likes": 276,
+        "dislikes": 20
+      },
+      "views": 768,
+      "userId": 142
+    },
+    {
+      "id": 11,
+      "title": "A flower growing on concrete",
+      "body": "The flower blossomed through the cracks in the pavement. To most it was small, but to her it was proof that life always finds a way.",
+      "tags": [
+        "inspiration",
+        "life"
+      ],
+      "reactions": {
+        "likes": 512,
+        "dislikes": 27
+      },
+      "views": 1430,
+      "userId": 33
+    },
+    {
+      "id": 12,
+      "title": "The password nobody could guess",
+      "body": "It wasn’t a date, or a name, or even a word — because sometimes the safest secret is the simplest one.",
+      "tags": [
+        "tech",
+        "cyber"
+      ],
+      "reactions": {
+        "likes": 98,
+        "dislikes": 4
+      },
+      "views": 201,
+      "userId": 275
+    },
+    {
+      "id": 13,
+      "title": "Echoes in the hallway",
+      "body": "He heard footsteps behind him in an empty hallway. They grew louder — but the hallway remained empty.",
+      "tags": [
+        "horror",
+        "mystery"
+      ],
+      "reactions": {
+        "likes": 266,
+        "dislikes": 19
+      },
+      "views": 603,
+      "userId": 12
+    },
+    {
+      "id": 14,
+      "title": "The last message on her phone",
+      "body": "The screen cracked but the message remained — a truth she wasn’t prepared to face.",
+      "tags": [
+        "drama",
+        "emotional"
+      ],
+      "reactions": {
+        "likes": 350,
+        "dislikes": 17
+      },
+      "views": 980,
+      "userId": 167
+    },
+    {
+      "id": 15,
+      "title": "Midnight at the library",
+      "body": "Books whispered secrets to those who stayed past closing hours. He wished he hadn’t listened.",
+      "tags": [
+        "fantasy",
+        "thriller"
+      ],
+      "reactions": {
+        "likes": 412,
+        "dislikes": 29
+      },
+      "views": 1211,
+      "userId": 60
+    },
+    {
+      "id": 16,
+      "title": "The hotel room nobody booked",
+      "body": "Room 213 wasn’t in the system, yet guests kept reporting strange sounds coming from inside.",
+      "tags": [
+        "thriller",
+        "creepy"
+      ],
+      "reactions": {
+        "likes": 291,
+        "dislikes": 22
+      },
+      "views": 698,
+      "userId": 141
+    },
+    {
+      "id": 17,
+      "title": "The painting that changed itself",
+      "body": "Every day, the painting showed a new detail — as if it were alive and observing its viewers.",
+      "tags": [
+        "fantasy",
+        "mystery"
+      ],
+      "reactions": {
+        "likes": 377,
+        "dislikes": 18
+      },
+      "views": 1044,
+      "userId": 157
+    },
+    {
+      "id": 18,
+      "title": "One last voicemail",
+      "body": "He kept the last voicemail she left him and played it every night — even though it hurt.",
+      "tags": [
+        "emotional",
+        "romance"
+      ],
+      "reactions": {
+        "likes": 533,
+        "dislikes": 31
+      },
+      "views": 1647,
+      "userId": 44
+    },
+    {
+      "id": 19,
+      "title": "She woke up with a different memory",
+      "body": "Each morning she remembered a different version of her childhood, leaving her unsure which one was real.",
+      "tags": [
+        "psychological",
+        "drama"
+      ],
+      "reactions": {
+        "likes": 288,
+        "dislikes": 12
+      },
+      "views": 702,
+      "userId": 19
+    },
+    {
+      "id": 20,
+      "title": "The stranger on the bus",
+      "body": "He sat silently every day, staring out the window. One morning, the seat was empty — except for a letter addressed to her.",
+      "tags": [
+        "life",
+        "mystery"
+      ],
+      "reactions": {
+        "likes": 324,
+        "dislikes": 15
+      },
+      "views": 812,
+      "userId": 78
+    },
+    {
+      "id": 21,
+      "title": "A candle that never melted",
+      "body": "The candle burned every night but never grew smaller. She knew it meant someone was protecting her.",
+      "tags": [
+        "fantasy",
+        "magic"
+      ],
+      "reactions": {
+        "likes": 403,
+        "dislikes": 21
+      },
+      "views": 1179,
+      "userId": 52
+    },
+    {
+      "id": 22,
+      "title": "The old camera roll",
+      "body": "When he developed the old film, the faces in the photos were all smiling — except his.",
+      "tags": [
+        "mystery",
+        "creepy"
+      ],
+      "reactions": {
+        "likes": 367,
+        "dislikes": 16
+      },
+      "views": 984,
+      "userId": 104
+    },
+    {
+      "id": 23,
+      "title": "Her forgotten birthday",
+      "body": "Everyone forgot her birthday except a stranger who sent her a letter — with details nobody should know.",
+      "tags": [
+        "emotional",
+        "thriller"
+      ],
+      "reactions": {
+        "likes": 289,
+        "dislikes": 12
+      },
+      "views": 645,
+      "userId": 208
+    },
+    {
+      "id": 24,
+      "title": "The forest that whispered",
+      "body": "They told stories of trees whispering your name if you walked alone. He wished he hadn’t gone in.",
+      "tags": [
+        "horror",
+        "fantasy"
+      ],
+      "reactions": {
+        "likes": 410,
+        "dislikes": 17
+      },
+      "views": 1198,
+      "userId": 80
+    },
+    {
+      "id": 25,
+      "title": "A dream too real",
+      "body": "He woke up from a dream about a stranger — then saw the stranger standing outside his house.",
+      "tags": [
+        "thriller",
+        "psychological"
+      ],
+      "reactions": {
+        "likes": 500,
+        "dislikes": 25
+      },
+      "views": 1583,
+      "userId": 96
+    },
+    {
+      "id": 26,
+      "title": "Lost and not found",
+      "body": "The city had swallowed people before, but never someone this important.",
+      "tags": [
+        "crime",
+        "drama"
+      ],
+      "reactions": {
+        "likes": 342,
+        "dislikes": 18
+      },
+      "views": 932,
+      "userId": 256
+    },
+    {
+      "id": 27,
+      "title": "The mirror that lied",
+      "body": "Every reflection showed a different emotion — none matched how she felt.",
+      "tags": [
+        "fantasy",
+        "surreal"
+      ],
+      "reactions": {
+        "likes": 431,
+        "dislikes": 23
+      },
+      "views": 1275,
+      "userId": 297
+    },
+    {
+      "id": 28,
+      "title": "Midnight visitor",
+      "body": "Someone knocked at midnight every night, but the security camera never showed anyone there.",
+      "tags": [
+        "horror",
+        "mystery"
+      ],
+      "reactions": {
+        "likes": 381,
+        "dislikes": 19
+      },
+      "views": 1102,
+      "userId": 132
+    },
+    {
+      "id": 29,
+      "title": "The voice on the radio",
+      "body": "He heard someone calling his name on a radio that wasn’t even plugged in.",
+      "tags": [
+        "creepy",
+        "paranormal"
+      ],
+      "reactions": {
+        "likes": 402,
+        "dislikes": 14
+      },
+      "views": 1210,
+      "userId": 65
+    },
+    {
+      "id": 30,
+      "title": "The diary no one wrote",
+      "body": "The diary contained years of entries — none written in her handwriting.",
+      "tags": [
+        "suspense",
+        "mystery"
+      ],
+      "reactions": {
+        "likes": 359,
+        "dislikes": 12
+      },
+      "views": 1019,
+      "userId": 14
+    }
+  ],
+  "total": 251,
+  "skip": 0,
+  "limit": 30
+}
